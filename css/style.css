@@ -40,3 +40,9 @@ body{
 	color: white;
 	text-shadow:5px 5px 7px rgba(0,0,0,1);
 }
+#logo2{
+	padding-top: 8px;
+	width: 75px;
+	margin: 0px auto 0px;
+	display: block;
+}
