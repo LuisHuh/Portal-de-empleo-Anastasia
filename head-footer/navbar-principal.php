@@ -9,10 +9,10 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="pull-left" href="index.php"><img src="images/logo.png" alt="Brand" class="img-responsive" id="logo2"></a>
+			<a class="pull-left" href="index.php"><img src="images/logo.png" alt="Brand" class="img-responsive" id="logo"></a>
 		</div>
 		<!-- Links, forms, y otros elementos para el toggle-->
-		<div class="collapse navbar-collapse" id="navbar-collapse1">
+		<div class="collapse navbar-collapse" id="navbar-co	llapse1">
 			<ul class="nav navbar-nav">
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Productos en celulares <span class="caret"></span></a>
